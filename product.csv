@@ -1,0 +1,1001 @@
+Product_ID,Order_Priority,Warehouse_Code,Ship_Mode,Delivery_Status,Item_Returned,Return_Reason,Payment_Type,Product_List_Title
+536,High,WH-3,2-Day,Cancelled,False,Wrong Item,Wire Transfer,Product 53
+523,Critical,WH-1,Overnight,Backorder,True,Damaged,PayPal,Product 33
+535,Critical,WH-1,Overnight,Pending,True,Damaged,PayPal,Product 6
+546,Medium,WH-1,Express,Pending,False,Wrong Item,Cash,Product 68
+556,Low,WH-2,2-Day,Delivered,True,Late,Cash,Product 89
+549,Medium,WH-3,2-Day,Backorder,True,Not Specified,PayPal,Product 27
+547,Critical,WH-3,Express,Cancelled,False,Late,Credit Card,Product 83
+542,Critical,WH-2,Overnight,Delivered,True,Not Specified,Credit Card,Product 13
+533,Medium,WH-1,Express,Delivered,True,Late,PayPal,Product 54
+529,Critical,WH-3,Overnight,Pending,True,Late,Credit Card,Product 35
+521,Medium,WH-2,Overnight,Delivered,False,Wrong Item,Cash,Product 40
+535,Critical,WH-2,Regular,Cancelled,False,Not Specified,Cash,Product 60
+555,High,WH-3,Express,Backorder,False,Damaged,Credit Card,Product 97
+524,Critical,WH-3,Express,Delivered,False,Wrong Item,Credit Card,Product 99
+508,Medium,WH-1,Overnight,Delivered,True,Late,Credit Card,Product 70
+546,Medium,WH-1,Regular,Pending,True,Late,PayPal,Product 8
+523,High,WH-2,Regular,Cancelled,False,Damaged,Wire Transfer,Product 88
+510,Medium,WH-1,2-Day,Delivered,True,Late,Credit Card,Product 45
+515,High,WH-1,Express,Backorder,True,Wrong Item,Credit Card,Product 95
+549,Low,WH-1,Express,Cancelled,False,Damaged,Credit Card,Product 40
+542,Low,WH-1,Regular,Pending,False,Late,Cash,Product 84
+535,Low,WH-3,Overnight,Backorder,False,Damaged,Cash,Product 63
+548,High,WH-1,Overnight,Delivered,False,Late,Credit Card,Product 99
+520,Low,WH-3,Express,Delivered,False,Damaged,PayPal,Product 11
+521,High,WH-2,Overnight,Pending,True,Damaged,Credit Card,Product 57
+531,High,WH-3,Overnight,Pending,False,Wrong Item,Wire Transfer,Product 54
+537,Critical,WH-3,2-Day,Delivered,True,Damaged,PayPal,Product 71
+534,Low,WH-2,Overnight,Pending,False,Not Specified,Wire Transfer,Product 45
+542,High,WH-3,Regular,Pending,True,Not Specified,Credit Card,Product 7
+524,Critical,WH-2,Regular,Backorder,False,Late,Credit Card,Product 84
+528,High,WH-3,Regular,Pending,True,Not Specified,Credit Card,Product 8
+544,High,WH-2,Regular,Backorder,True,Not Specified,Wire Transfer,Product 80
+516,Low,WH-2,Express,Delivered,True,Not Specified,Credit Card,Product 86
+546,High,WH-2,Regular,Pending,True,Damaged,Wire Transfer,Product 26
+526,Critical,WH-3,2-Day,Backorder,False,Late,Wire Transfer,Product 55
+531,Medium,WH-1,2-Day,Cancelled,True,unkown,PayPal,Product 56
+525,Low,WH-2,2-Day,Delivered,True,Not Specified,Credit Card,Product 90
+529,Low,WH-1,2-Day,Backorder,True,Not Specified,Wire Transfer,Product 7
+538,High,WH-2,Regular,Cancelled,True,Not Specified,Cash,Product 77
+511,High,WH-1,Express,Cancelled,False,Not Specified,Cash,Product 8
+545,Critical,WH-2,Regular,Delivered,True,Late,Wire Transfer,Product 61
+536,Medium,WH-3,Regular,Backorder,True,Damaged,Cash,Product 31
+546,Medium,WH-2,2-Day,Backorder,True,unkown,Cash,Product 60
+525,Critical,WH-2,2-Day,Pending,True,Wrong Item,PayPal,Product 6
+533,Low,WH-3,Overnight,Cancelled,False,Not Specified,PayPal,Product 7
+550,High,WH-1,2-Day,Delivered,True,Wrong Item,Wire Transfer,Product 76
+501,Medium,WH-3,2-Day,Delivered,False,unkown,Credit Card,Product 70
+553,Low,WH-1,Express,Pending,True,Damaged,PayPal,Product 23
+522,Low,WH-2,Regular,Pending,False,Damaged,Wire Transfer,Product 2
+512,Medium,WH-2,2-Day,Delivered,False,Damaged,Credit Card,Product 9
+552,Critical,WH-2,Regular,Cancelled,True,Damaged,Cash,Product 1
+560,High,WH-1,Regular,Cancelled,False,Damaged,Cash,Product 82
+519,Low,WH-1,Express,Pending,False,Wrong Item,Cash,Product 63
+516,Critical,WH-3,Express,Delivered,True,Late,PayPal,Product 96
+560,Low,WH-1,Overnight,Pending,False,Late,Credit Card,Product 17
+556,High,WH-3,2-Day,Delivered,True,Late,Wire Transfer,Product 42
+535,Critical,WH-1,Overnight,Backorder,True,Late,Wire Transfer,Product 93
+502,Medium,WH-1,Express,Delivered,False,Damaged,PayPal,Product 38
+522,Medium,WH-2,2-Day,Pending,False,Wrong Item,PayPal,Product 6
+503,Medium,WH-1,Regular,Delivered,False,Not Specified,PayPal,Product 99
+524,High,WH-2,2-Day,Cancelled,False,Damaged,Credit Card,Product 12
+520,Low,WH-3,Express,Delivered,True,Not Specified,Credit Card,Product 33
+556,Low,WH-3,Regular,Pending,False,Not Specified,Wire Transfer,Product 10
+508,Medium,WH-1,Overnight,Backorder,False,Late,Wire Transfer,Product 19
+515,Low,WH-1,Express,Backorder,True,Wrong Item,Wire Transfer,Product 92
+514,Medium,WH-3,2-Day,Cancelled,False,Late,Credit Card,Product 52
+506,Low,WH-1,Express,Cancelled,False,Wrong Item,Cash,Product 73
+521,Critical,WH-1,Regular,Backorder,True,Not Specified,PayPal,Product 50
+544,Low,WH-2,Regular,Cancelled,True,Late,PayPal,Product 72
+530,High,WH-2,Express,Pending,False,Late,Wire Transfer,Product 18
+547,Medium,WH-3,2-Day,Backorder,False,Damaged,Cash,Product 78
+502,Medium,WH-3,Regular,Cancelled,True,unkown,Wire Transfer,Product 11
+531,High,WH-1,Express,Cancelled,True,Late,Cash,Product 78
+526,Low,WH-1,Regular,Cancelled,True,Not Specified,Cash,Product 37
+560,High,WH-2,Regular,Backorder,True,Wrong Item,PayPal,Product 25
+554,Medium,WH-1,Express,Cancelled,True,Damaged,PayPal,Product 92
+515,Low,WH-2,2-Day,Cancelled,True,unkown,Wire Transfer,Product 49
+506,High,WH-3,2-Day,Pending,False,unkown,Wire Transfer,Product 20
+522,Low,WH-1,Regular,Cancelled,True,Not Specified,Credit Card,Product 20
+510,High,WH-3,Regular,Delivered,False,Damaged,Cash,Product 74
+521,Low,WH-3,Overnight,Cancelled,True,unkown,Credit Card,Product 78
+538,High,WH-3,Regular,Backorder,True,Not Specified,Wire Transfer,Product 23
+535,Low,WH-1,Express,Cancelled,False,Not Specified,Credit Card,Product 59
+521,Critical,WH-2,2-Day,Delivered,True,Late,PayPal,Product 11
+532,Critical,WH-3,Regular,Delivered,False,Damaged,Credit Card,Product 18
+557,Low,WH-2,Regular,Cancelled,True,unkown,Credit Card,Product 47
+552,Critical,WH-3,2-Day,Cancelled,True,unkown,PayPal,Product 72
+529,Critical,WH-2,Express,Delivered,True,Wrong Item,Credit Card,Product 81
+523,Low,WH-3,Overnight,Delivered,True,Late,Credit Card,Product 52
+516,Critical,WH-1,Express,Pending,True,Late,Credit Card,Product 41
+537,Critical,WH-2,Overnight,Delivered,False,Damaged,Wire Transfer,Product 39
+506,Low,WH-2,2-Day,Delivered,False,Wrong Item,Wire Transfer,Product 41
+527,High,WH-1,Overnight,Pending,True,Damaged,Cash,Product 1
+549,Medium,WH-3,Overnight,Delivered,True,Not Specified,Cash,Product 27
+551,Low,WH-2,2-Day,Delivered,False,Wrong Item,PayPal,Product 47
+510,Low,WH-2,Overnight,Cancelled,False,Not Specified,PayPal,Product 1
+510,Critical,WH-3,Regular,Backorder,True,Late,Cash,Product 59
+539,Medium,WH-1,Regular,Backorder,False,Late,Cash,Product 62
+507,Critical,WH-1,Overnight,Cancelled,False,Wrong Item,Wire Transfer,Product 98
+502,Low,WH-1,Express,Cancelled,False,Damaged,Credit Card,Product 21
+528,Critical,WH-3,2-Day,Pending,False,Not Specified,PayPal,Product 35
+542,Critical,WH-3,2-Day,Delivered,True,Not Specified,Credit Card,Product 73
+557,Critical,WH-2,Overnight,Delivered,False,Wrong Item,Cash,Product 67
+526,Medium,WH-2,2-Day,Pending,True,Late,Cash,Product 3
+526,High,WH-3,Express,Backorder,False,Not Specified,Cash,Product 86
+525,Medium,WH-1,Overnight,Cancelled,False,Wrong Item,Cash,Product 70
+530,Medium,WH-1,Express,Pending,True,Wrong Item,Credit Card,Product 50
+538,High,WH-3,2-Day,Delivered,True,Wrong Item,PayPal,Product 73
+518,Medium,WH-2,2-Day,Backorder,False,Late,Credit Card,Product 28
+537,Low,WH-2,2-Day,Pending,True,Damaged,Credit Card,Product 16
+536,High,WH-1,Overnight,Delivered,False,unkown,Wire Transfer,Product 36
+540,High,WH-1,Regular,Delivered,False,Wrong Item,Cash,Product 7
+558,Low,WH-1,Overnight,Cancelled,False,Late,PayPal,Product 16
+547,High,WH-1,Regular,Backorder,False,Late,Wire Transfer,Product 53
+530,Critical,WH-3,2-Day,Delivered,True,unkown,Credit Card,Product 46
+512,High,WH-1,Regular,Pending,True,Wrong Item,Wire Transfer,Product 2
+534,High,WH-1,Express,Cancelled,True,Wrong Item,Cash,Product 9
+523,Low,WH-3,Overnight,Backorder,True,Wrong Item,Credit Card,Product 73
+505,Medium,WH-1,2-Day,Cancelled,False,Late,Wire Transfer,Product 58
+544,High,WH-1,Express,Cancelled,False,Not Specified,Wire Transfer,Product 17
+544,Critical,WH-2,Regular,Pending,False,Damaged,Cash,Product 67
+536,Medium,WH-3,Regular,Pending,False,Damaged,PayPal,Product 6
+525,Medium,WH-1,Express,Backorder,True,Damaged,PayPal,Product 92
+511,High,WH-1,Express,Delivered,False,Wrong Item,Wire Transfer,Product 65
+544,High,WH-2,Express,Cancelled,False,Wrong Item,PayPal,Product 44
+506,Low,WH-2,Regular,Backorder,False,Damaged,Credit Card,Product 3
+524,High,WH-1,Express,Cancelled,True,Late,Wire Transfer,Product 30
+550,Medium,WH-3,Regular,Delivered,True,Late,PayPal,Product 37
+545,Medium,WH-1,2-Day,Backorder,False,Late,Credit Card,Product 98
+528,Critical,WH-2,Overnight,Backorder,True,unkown,Wire Transfer,Product 14
+530,High,WH-3,Overnight,Pending,False,Not Specified,Credit Card,Product 20
+529,Medium,WH-3,Overnight,Backorder,False,Wrong Item,Cash,Product 37
+538,High,WH-1,Express,Delivered,True,Wrong Item,Wire Transfer,Product 16
+519,Low,WH-2,Overnight,Cancelled,False,Late,PayPal,Product 52
+544,Critical,WH-3,Express,Cancelled,True,Not Specified,Credit Card,Product 46
+551,Low,WH-3,2-Day,Cancelled,True,Wrong Item,PayPal,Product 80
+525,High,WH-1,Express,Cancelled,False,unkown,Cash,Product 37
+542,Medium,WH-1,Overnight,Delivered,True,Wrong Item,Credit Card,Product 74
+531,Medium,WH-2,Overnight,Cancelled,True,Not Specified,Credit Card,Product 85
+552,High,WH-1,2-Day,Pending,True,Not Specified,Credit Card,Product 60
+547,Critical,WH-1,2-Day,Pending,True,Not Specified,Wire Transfer,Product 59
+538,Medium,WH-3,2-Day,Delivered,False,Damaged,Cash,Product 76
+510,Low,WH-3,Express,Pending,True,Not Specified,Wire Transfer,Product 1
+504,Critical,WH-1,Overnight,Pending,True,Damaged,PayPal,Product 47
+532,Low,WH-1,Regular,Delivered,True,Late,PayPal,Product 95
+541,High,WH-3,Overnight,Cancelled,True,Wrong Item,Credit Card,Product 31
+530,High,WH-1,Regular,Pending,False,Wrong Item,Wire Transfer,Product 95
+514,Low,WH-3,2-Day,Delivered,True,Damaged,Wire Transfer,Product 77
+516,Medium,WH-2,Overnight,Pending,False,Damaged,Cash,Product 21
+504,Critical,WH-2,2-Day,Cancelled,True,Not Specified,Cash,Product 32
+560,Critical,WH-2,2-Day,Backorder,False,Late,Credit Card,Product 93
+506,Critical,WH-3,Regular,Pending,True,Wrong Item,Wire Transfer,Product 4
+541,High,WH-3,Overnight,Backorder,False,Not Specified,Credit Card,Product 25
+532,Medium,WH-1,2-Day,Delivered,False,unkown,PayPal,Product 60
+549,High,WH-2,Express,Delivered,True,Not Specified,Cash,Product 13
+550,Critical,WH-2,2-Day,Cancelled,False,Late,Cash,Product 35
+515,Low,WH-3,Overnight,Pending,False,Not Specified,Wire Transfer,Product 13
+523,Critical,WH-3,Overnight,Pending,False,Late,Cash,Product 56
+554,High,WH-1,Overnight,Backorder,True,Late,Wire Transfer,Product 99
+504,Low,WH-1,Overnight,Delivered,True,Late,Credit Card,Product 74
+519,High,WH-3,2-Day,Cancelled,False,Late,Cash,Product 44
+501,Critical,WH-1,Overnight,Pending,True,Wrong Item,Wire Transfer,Product 3
+532,Low,WH-3,2-Day,Delivered,False,Damaged,PayPal,Product 66
+517,Medium,WH-2,2-Day,Pending,False,Not Specified,Cash,Product 22
+542,Critical,WH-3,Express,Cancelled,False,Damaged,Wire Transfer,Product 61
+501,Low,WH-3,Overnight,Pending,False,Wrong Item,PayPal,Product 2
+553,Medium,WH-3,Regular,Backorder,True,Late,Credit Card,Product 61
+558,High,WH-2,Express,Pending,False,Wrong Item,PayPal,Product 6
+532,High,WH-1,Overnight,Backorder,False,Not Specified,PayPal,Product 42
+534,Critical,WH-3,2-Day,Pending,False,Late,PayPal,Product 89
+537,Low,WH-2,2-Day,Pending,True,Damaged,PayPal,Product 89
+539,Low,WH-3,2-Day,Cancelled,False,Late,Wire Transfer,Product 22
+544,Medium,WH-2,Overnight,Backorder,False,Not Specified,PayPal,Product 26
+513,Critical,WH-3,Express,Backorder,False,Wrong Item,Credit Card,Product 75
+546,Medium,WH-2,Express,Cancelled,True,Late,Cash,Product 21
+526,Low,WH-1,2-Day,Cancelled,False,unkown,Credit Card,Product 47
+528,Medium,WH-1,Overnight,Pending,False,Wrong Item,PayPal,Product 80
+503,Critical,WH-1,Regular,Delivered,True,Not Specified,Wire Transfer,Product 82
+546,High,WH-3,Express,Delivered,False,Damaged,Cash,Product 81
+533,Low,WH-3,2-Day,Delivered,True,Not Specified,PayPal,Product 24
+533,Low,WH-2,Express,Delivered,True,Wrong Item,Cash,Product 95
+532,High,WH-1,Express,Delivered,True,Damaged,Wire Transfer,Product 46
+546,Medium,WH-2,Overnight,Backorder,False,Wrong Item,Cash,Product 98
+550,Critical,WH-1,2-Day,Cancelled,False,Wrong Item,PayPal,Product 88
+557,Critical,WH-2,Overnight,Pending,False,Damaged,PayPal,Product 91
+560,Critical,WH-1,Overnight,Cancelled,False,Damaged,Credit Card,Product 55
+549,High,WH-3,2-Day,Cancelled,False,unkown,Cash,Product 71
+516,Medium,WH-1,2-Day,Delivered,True,Damaged,PayPal,Product 71
+501,Critical,WH-3,Overnight,Cancelled,True,Not Specified,PayPal,Product 68
+506,Low,WH-2,Regular,Backorder,True,Wrong Item,PayPal,Product 15
+532,Critical,WH-3,Regular,Delivered,False,Damaged,Wire Transfer,Product 75
+534,Medium,WH-2,Express,Delivered,False,Late,Cash,Product 78
+547,Medium,WH-2,Regular,Pending,False,Not Specified,PayPal,Product 5
+509,Low,WH-1,Overnight,Delivered,True,Not Specified,Cash,Product 98
+522,Critical,WH-3,Overnight,Cancelled,False,Late,PayPal,Product 96
+547,Medium,WH-1,Overnight,Cancelled,True,Wrong Item,Cash,Product 60
+552,Medium,WH-1,Regular,Backorder,True,Not Specified,Wire Transfer,Product 42
+508,Low,WH-3,Overnight,Delivered,False,Late,Cash,Product 37
+546,Low,WH-3,Regular,Delivered,True,Wrong Item,Credit Card,Product 83
+502,Medium,WH-1,2-Day,Pending,False,Late,PayPal,Product 93
+538,Medium,WH-2,Overnight,Pending,False,Late,Wire Transfer,Product 97
+523,Critical,WH-3,Regular,Backorder,False,Not Specified,Cash,Product 74
+547,High,WH-2,Overnight,Backorder,False,Late,Credit Card,Product 78
+529,Critical,WH-2,Overnight,Pending,True,Not Specified,Credit Card,Product 64
+543,High,WH-3,Regular,Pending,False,Late,Wire Transfer,Product 18
+514,High,WH-1,Regular,Backorder,True,Wrong Item,Wire Transfer,Product 89
+542,High,WH-2,Express,Cancelled,False,Late,Wire Transfer,Product 13
+511,Low,WH-1,Regular,Cancelled,True,Wrong Item,Cash,Product 17
+543,Critical,WH-1,Overnight,Cancelled,False,Damaged,Cash,Product 15
+556,High,WH-2,Regular,Backorder,True,Not Specified,Wire Transfer,Product 80
+511,Medium,WH-2,Overnight,Pending,True,Not Specified,Wire Transfer,Product 92
+552,Medium,WH-3,2-Day,Backorder,True,Damaged,PayPal,Product 37
+534,Critical,WH-3,Express,Cancelled,False,Damaged,Cash,Product 11
+536,Medium,WH-2,2-Day,Cancelled,True,Not Specified,Credit Card,Product 53
+544,Medium,WH-1,Overnight,Backorder,False,Not Specified,Credit Card,Product 82
+535,Medium,WH-3,Regular,Backorder,False,Late,Wire Transfer,Product 75
+524,Medium,WH-1,Overnight,Cancelled,False,unkown,Cash,Product 78
+504,High,WH-3,Express,Cancelled,True,Wrong Item,PayPal,Product 48
+511,Medium,WH-1,2-Day,Backorder,False,Late,Credit Card,Product 29
+534,High,WH-2,Express,Delivered,False,Damaged,PayPal,Product 1
+528,High,WH-3,Regular,Delivered,True,Not Specified,Credit Card,Product 14
+510,High,WH-1,Regular,Delivered,False,unkown,PayPal,Product 76
+525,High,WH-2,Overnight,Delivered,True,Damaged,Wire Transfer,Product 11
+502,High,WH-3,Regular,Backorder,False,Wrong Item,Cash,Product 59
+508,Critical,WH-2,Overnight,Backorder,False,Wrong Item,Wire Transfer,Product 84
+515,Medium,WH-1,2-Day,Cancelled,True,Wrong Item,Credit Card,Product 79
+518,Medium,WH-1,2-Day,Cancelled,False,Late,Wire Transfer,Product 35
+526,Medium,WH-2,Express,Backorder,False,Not Specified,Cash,Product 73
+507,High,WH-2,Express,Pending,False,Not Specified,Credit Card,Product 22
+522,High,WH-2,Overnight,Delivered,False,Not Specified,PayPal,Product 16
+548,Low,WH-3,Express,Backorder,True,Damaged,Wire Transfer,Product 67
+543,Critical,WH-1,Express,Pending,False,Wrong Item,PayPal,Product 90
+549,Critical,WH-2,Express,Backorder,False,Damaged,PayPal,Product 78
+549,Critical,WH-3,Regular,Delivered,True,unkown,Cash,Product 40
+508,Low,WH-2,2-Day,Backorder,True,Damaged,Credit Card,Product 51
+506,Low,WH-1,2-Day,Backorder,False,Damaged,PayPal,Product 40
+547,Critical,WH-1,Overnight,Cancelled,False,Late,PayPal,Product 28
+541,High,WH-2,2-Day,Cancelled,False,unkown,PayPal,Product 12
+519,Low,WH-3,Regular,Backorder,True,Damaged,Credit Card,Product 66
+539,Critical,WH-1,2-Day,Cancelled,False,Damaged,Cash,Product 5
+507,Critical,WH-2,2-Day,Delivered,True,Late,PayPal,Product 93
+539,Low,WH-2,2-Day,Backorder,False,Late,PayPal,Product 93
+506,Critical,WH-2,Regular,Backorder,False,unkown,Cash,Product 90
+507,High,WH-1,Express,Cancelled,True,Wrong Item,Credit Card,Product 99
+508,Critical,WH-1,Regular,Pending,True,Late,Cash,Product 38
+508,Critical,WH-3,Regular,Pending,False,Damaged,Credit Card,Product 22
+506,Critical,WH-2,Regular,Delivered,True,unkown,PayPal,Product 34
+502,Critical,WH-3,Overnight,Pending,False,Not Specified,PayPal,Product 6
+532,Medium,WH-2,Express,Cancelled,True,Damaged,Wire Transfer,Product 78
+537,Critical,WH-1,Express,Delivered,False,Damaged,Credit Card,Product 45
+528,Medium,WH-1,Regular,Backorder,True,Not Specified,Credit Card,Product 12
+531,High,WH-1,Regular,Backorder,True,Damaged,Credit Card,Product 74
+513,Critical,WH-1,2-Day,Backorder,False,Damaged,Credit Card,Product 46
+501,Critical,WH-2,Express,Pending,False,Damaged,Credit Card,Product 73
+529,Low,WH-2,Overnight,Cancelled,True,Not Specified,Wire Transfer,Product 76
+533,Low,WH-2,Express,Cancelled,False,Wrong Item,Credit Card,Product 55
+520,Critical,WH-3,2-Day,Delivered,True,Damaged,Wire Transfer,Product 48
+545,Medium,WH-2,Overnight,Backorder,True,Damaged,Wire Transfer,Product 52
+515,Critical,WH-3,Express,Delivered,False,Late,PayPal,Product 60
+521,Critical,WH-2,Regular,Cancelled,True,Late,Wire Transfer,Product 62
+503,Medium,WH-1,Express,Cancelled,True,Wrong Item,PayPal,Product 31
+501,Critical,WH-2,Express,Cancelled,True,Damaged,Credit Card,Product 10
+505,Medium,WH-2,Express,Cancelled,True,unkown,Credit Card,Product 24
+550,Medium,WH-2,Overnight,Cancelled,False,Wrong Item,Credit Card,Product 74
+514,Medium,WH-1,Regular,Delivered,False,Not Specified,Credit Card,Product 50
+560,Medium,WH-3,Overnight,Pending,True,Wrong Item,Wire Transfer,Product 92
+555,High,WH-1,Express,Pending,True,Damaged,Cash,Product 45
+556,Medium,WH-3,Express,Backorder,False,unkown,Credit Card,Product 61
+541,High,WH-3,Overnight,Backorder,False,Damaged,Cash,Product 20
+553,Medium,WH-1,Express,Delivered,True,Wrong Item,Wire Transfer,Product 69
+512,High,WH-3,Express,Delivered,False,Late,PayPal,Product 35
+506,High,WH-1,Regular,Pending,False,Damaged,Credit Card,Product 28
+550,Low,WH-3,Overnight,Cancelled,False,unkown,PayPal,Product 34
+537,Low,WH-2,Regular,Backorder,True,Damaged,Cash,Product 14
+501,Low,WH-2,Express,Backorder,False,Wrong Item,Cash,Product 79
+505,Critical,WH-2,2-Day,Cancelled,True,Not Specified,Credit Card,Product 81
+550,High,WH-3,Express,Cancelled,True,Late,Credit Card,Product 4
+551,High,WH-1,Express,Delivered,False,Late,Credit Card,Product 82
+512,Low,WH-2,Overnight,Backorder,False,unkown,Cash,Product 94
+532,Critical,WH-2,Regular,Backorder,False,Wrong Item,PayPal,Product 96
+514,Critical,WH-2,2-Day,Cancelled,False,Damaged,Wire Transfer,Product 53
+514,Critical,WH-2,Overnight,Pending,True,Not Specified,Wire Transfer,Product 5
+517,High,WH-1,Overnight,Cancelled,False,Damaged,Credit Card,Product 38
+508,Critical,WH-1,Regular,Cancelled,True,Wrong Item,PayPal,Product 97
+554,High,WH-1,2-Day,Cancelled,False,Not Specified,Credit Card,Product 18
+533,High,WH-3,Regular,Cancelled,False,Damaged,Wire Transfer,Product 82
+525,Medium,WH-2,Overnight,Cancelled,True,Not Specified,Credit Card,Product 88
+553,Medium,WH-2,Regular,Delivered,False,Not Specified,PayPal,Product 80
+558,Low,WH-1,Overnight,Cancelled,True,Wrong Item,PayPal,Product 37
+560,Low,WH-3,Express,Delivered,False,Damaged,Wire Transfer,Product 96
+505,Critical,WH-2,Express,Backorder,False,Damaged,PayPal,Product 74
+543,High,WH-3,Overnight,Pending,False,Damaged,PayPal,Product 10
+514,Low,WH-2,2-Day,Cancelled,False,Not Specified,Cash,Product 96
+522,High,WH-1,Regular,Delivered,False,Damaged,Cash,Product 36
+511,Medium,WH-3,Overnight,Pending,False,Damaged,PayPal,Product 61
+531,High,WH-1,Regular,Pending,False,Late,Credit Card,Product 15
+547,High,WH-2,Express,Pending,False,Wrong Item,PayPal,Product 42
+559,Low,WH-1,Overnight,Cancelled,False,Not Specified,Cash,Product 15
+555,Critical,WH-1,Regular,Pending,True,unkown,PayPal,Product 89
+525,Medium,WH-3,2-Day,Pending,False,unkown,Cash,Product 52
+554,Medium,WH-3,Regular,Backorder,False,Wrong Item,PayPal,Product 25
+541,Medium,WH-1,2-Day,Cancelled,False,Late,PayPal,Product 78
+513,Critical,WH-1,Express,Backorder,True,Damaged,Wire Transfer,Product 45
+558,High,WH-1,Express,Backorder,True,Late,Wire Transfer,Product 13
+552,Medium,WH-2,2-Day,Pending,False,unkown,Cash,Product 92
+527,High,WH-1,2-Day,Delivered,True,Not Specified,Wire Transfer,Product 62
+524,Critical,WH-3,Overnight,Cancelled,True,Damaged,Cash,Product 10
+503,Critical,WH-3,2-Day,Pending,True,Wrong Item,Cash,Product 34
+518,Medium,WH-3,Overnight,Delivered,True,Damaged,PayPal,Product 5
+541,Medium,WH-2,Overnight,Backorder,True,unkown,Cash,Product 28
+546,Medium,WH-1,Overnight,Delivered,False,Late,Credit Card,Product 15
+557,Low,WH-1,2-Day,Cancelled,True,unkown,Cash,Product 77
+525,Critical,WH-2,Regular,Delivered,False,Late,PayPal,Product 78
+540,Critical,WH-3,Express,Pending,False,Damaged,Cash,Product 76
+526,High,WH-3,Overnight,Backorder,False,Damaged,Cash,Product 97
+502,Critical,WH-3,Regular,Delivered,False,Not Specified,Credit Card,Product 97
+533,Low,WH-3,2-Day,Backorder,False,Wrong Item,Credit Card,Product 46
+557,High,WH-2,Overnight,Backorder,False,Damaged,PayPal,Product 56
+539,Critical,WH-2,Express,Delivered,True,Wrong Item,Cash,Product 59
+548,High,WH-1,Overnight,Cancelled,True,Late,Cash,Product 33
+547,Medium,WH-2,Express,Delivered,True,Damaged,PayPal,Product 54
+552,High,WH-2,2-Day,Cancelled,False,Not Specified,Credit Card,Product 16
+535,Low,WH-3,Express,Pending,False,Damaged,PayPal,Product 25
+527,Medium,WH-1,Regular,Cancelled,True,Damaged,PayPal,Product 44
+550,Critical,WH-3,Regular,Backorder,False,Not Specified,PayPal,Product 47
+536,Medium,WH-1,Regular,Delivered,True,Late,Wire Transfer,Product 63
+553,Low,WH-2,2-Day,Delivered,False,Late,Credit Card,Product 91
+501,Critical,WH-3,Regular,Pending,True,Damaged,Cash,Product 7
+517,Low,WH-1,2-Day,Pending,False,Wrong Item,PayPal,Product 55
+506,Critical,WH-1,Express,Cancelled,True,Damaged,Wire Transfer,Product 42
+540,Medium,WH-1,2-Day,Cancelled,True,unkown,Credit Card,Product 57
+555,Critical,WH-3,2-Day,Backorder,True,Wrong Item,Credit Card,Product 3
+508,Low,WH-2,Express,Backorder,False,Wrong Item,Credit Card,Product 36
+519,Low,WH-1,Overnight,Backorder,True,Wrong Item,Cash,Product 89
+512,High,WH-2,Regular,Backorder,False,Wrong Item,PayPal,Product 90
+508,High,WH-1,2-Day,Backorder,False,Not Specified,Credit Card,Product 35
+553,Critical,WH-3,Overnight,Backorder,False,Not Specified,Wire Transfer,Product 10
+526,Medium,WH-2,Regular,Delivered,True,Late,Credit Card,Product 49
+536,Medium,WH-3,Regular,Backorder,True,unkown,PayPal,Product 63
+511,Critical,WH-1,2-Day,Cancelled,False,Not Specified,Credit Card,Product 82
+547,High,WH-3,2-Day,Backorder,True,Not Specified,Cash,Product 16
+523,Low,WH-1,Overnight,Cancelled,False,Wrong Item,Wire Transfer,Product 9
+539,Low,WH-3,Express,Delivered,True,Damaged,PayPal,Product 72
+506,Critical,WH-1,2-Day,Pending,True,Not Specified,Credit Card,Product 7
+532,Medium,WH-2,Express,Backorder,True,Not Specified,Cash,Product 11
+545,High,WH-3,Regular,Delivered,True,Not Specified,Cash,Product 61
+542,High,WH-1,Regular,Delivered,True,Wrong Item,Cash,Product 94
+514,High,WH-1,Overnight,Delivered,True,unkown,Credit Card,Product 42
+543,Medium,WH-3,2-Day,Delivered,True,Damaged,PayPal,Product 89
+520,Medium,WH-1,Overnight,Delivered,False,Late,Wire Transfer,Product 49
+548,Critical,WH-1,Express,Delivered,False,Not Specified,PayPal,Product 54
+520,Critical,WH-2,Regular,Backorder,True,Late,Wire Transfer,Product 89
+525,Medium,WH-3,Overnight,Delivered,True,Wrong Item,Credit Card,Product 35
+502,High,WH-1,Overnight,Backorder,True,unkown,Cash,Product 57
+538,Medium,WH-3,2-Day,Backorder,True,Late,Cash,Product 70
+534,Medium,WH-2,2-Day,Pending,True,Damaged,Cash,Product 94
+529,High,WH-1,Overnight,Backorder,False,Not Specified,Wire Transfer,Product 81
+521,Critical,WH-2,Regular,Backorder,False,Not Specified,Cash,Product 88
+554,High,WH-3,Regular,Pending,False,Wrong Item,PayPal,Product 95
+558,Low,WH-1,Express,Cancelled,True,unkown,Cash,Product 15
+549,Medium,WH-3,Regular,Cancelled,True,Wrong Item,Wire Transfer,Product 71
+538,Low,WH-2,Overnight,Delivered,False,Not Specified,Wire Transfer,Product 49
+536,Medium,WH-3,2-Day,Delivered,False,Late,Wire Transfer,Product 17
+554,Low,WH-3,Regular,Pending,True,Wrong Item,Wire Transfer,Product 4
+502,Low,WH-1,Overnight,Pending,True,Wrong Item,PayPal,Product 7
+514,Low,WH-1,Express,Backorder,True,Not Specified,Cash,Product 92
+533,Low,WH-3,2-Day,Delivered,False,Damaged,Cash,Product 18
+526,High,WH-2,Regular,Pending,True,Damaged,Wire Transfer,Product 36
+509,Low,WH-1,2-Day,Pending,False,Late,Wire Transfer,Product 46
+533,High,WH-1,2-Day,Backorder,True,Damaged,Cash,Product 76
+559,Medium,WH-1,Overnight,Pending,False,unkown,Credit Card,Product 81
+508,Medium,WH-1,Overnight,Cancelled,False,Late,Wire Transfer,Product 36
+544,Critical,WH-1,2-Day,Pending,True,Not Specified,Cash,Product 7
+537,Low,WH-3,2-Day,Backorder,False,Late,Wire Transfer,Product 62
+533,Critical,WH-2,2-Day,Cancelled,False,Wrong Item,Wire Transfer,Product 29
+549,Low,WH-1,2-Day,Backorder,True,unkown,PayPal,Product 7
+504,Critical,WH-3,2-Day,Backorder,False,unkown,Credit Card,Product 50
+503,Critical,WH-2,2-Day,Delivered,True,Late,PayPal,Product 54
+503,Critical,WH-1,Overnight,Pending,True,Wrong Item,PayPal,Product 78
+535,Critical,WH-1,Regular,Backorder,False,Not Specified,Cash,Product 4
+539,Critical,WH-2,Regular,Delivered,False,Late,Cash,Product 66
+539,Critical,WH-1,2-Day,Pending,True,Wrong Item,Wire Transfer,Product 10
+519,Medium,WH-1,Overnight,Cancelled,True,unkown,Credit Card,Product 83
+555,Low,WH-3,2-Day,Cancelled,True,Damaged,Cash,Product 10
+553,Critical,WH-1,Regular,Backorder,False,Not Specified,Credit Card,Product 89
+545,Low,WH-3,Express,Backorder,False,Not Specified,Cash,Product 80
+512,High,WH-2,Express,Cancelled,True,Not Specified,Wire Transfer,Product 63
+550,Medium,WH-1,2-Day,Cancelled,False,Late,PayPal,Product 30
+511,Medium,WH-3,2-Day,Backorder,True,Late,PayPal,Product 34
+511,High,WH-1,Express,Backorder,True,Wrong Item,Cash,Product 75
+555,High,WH-3,Regular,Cancelled,True,Damaged,Cash,Product 44
+536,Medium,WH-2,Overnight,Delivered,True,Wrong Item,Cash,Product 4
+503,Low,WH-2,2-Day,Cancelled,True,Wrong Item,PayPal,Product 79
+518,High,WH-2,Regular,Delivered,False,Damaged,Credit Card,Product 19
+530,High,WH-3,Overnight,Backorder,False,unkown,Cash,Product 88
+507,High,WH-3,Express,Delivered,False,unkown,Wire Transfer,Product 63
+520,Medium,WH-2,Express,Delivered,False,Late,PayPal,Product 22
+545,Critical,WH-3,2-Day,Delivered,True,Late,Cash,Product 21
+501,High,WH-2,Regular,Cancelled,False,Late,Cash,Product 22
+531,Medium,WH-2,Regular,Pending,True,Wrong Item,Cash,Product 5
+543,High,WH-1,2-Day,Delivered,False,Damaged,Cash,Product 45
+509,Low,WH-1,Express,Backorder,True,Wrong Item,Cash,Product 97
+513,High,WH-3,2-Day,Delivered,True,Late,PayPal,Product 42
+531,Medium,WH-1,Express,Pending,False,Not Specified,PayPal,Product 79
+559,Critical,WH-1,2-Day,Backorder,True,Not Specified,Credit Card,Product 46
+550,Critical,WH-2,Express,Cancelled,True,Not Specified,Wire Transfer,Product 25
+512,High,WH-3,2-Day,Cancelled,False,Late,PayPal,Product 5
+537,Medium,WH-3,Regular,Backorder,False,Wrong Item,PayPal,Product 13
+556,Medium,WH-2,Express,Backorder,False,Not Specified,Wire Transfer,Product 12
+544,Low,WH-3,Regular,Pending,False,Wrong Item,Cash,Product 17
+533,Critical,WH-2,Express,Backorder,True,Late,Credit Card,Product 64
+554,High,WH-1,Regular,Delivered,False,Not Specified,PayPal,Product 3
+555,Critical,WH-1,Regular,Pending,True,Wrong Item,Cash,Product 84
+516,Critical,WH-3,Express,Delivered,True,Not Specified,Wire Transfer,Product 96
+551,High,WH-2,2-Day,Pending,True,Wrong Item,Cash,Product 81
+530,Critical,WH-1,2-Day,Cancelled,True,Not Specified,PayPal,Product 42
+533,Medium,WH-3,2-Day,Cancelled,True,Late,Wire Transfer,Product 36
+504,High,WH-3,Express,Cancelled,True,Damaged,Wire Transfer,Product 53
+510,High,WH-2,Regular,Delivered,True,Damaged,Wire Transfer,Product 42
+529,High,WH-2,Overnight,Pending,True,Damaged,Wire Transfer,Product 58
+546,Low,WH-3,Overnight,Delivered,True,Wrong Item,Credit Card,Product 41
+552,High,WH-3,Regular,Pending,True,Damaged,Wire Transfer,Product 42
+540,Medium,WH-1,Overnight,Backorder,False,Damaged,Credit Card,Product 23
+509,Low,WH-2,Overnight,Backorder,True,Not Specified,Cash,Product 56
+527,High,WH-3,2-Day,Backorder,False,Wrong Item,Wire Transfer,Product 14
+551,Medium,WH-2,Express,Pending,False,Late,Cash,Product 45
+502,Low,WH-2,2-Day,Pending,False,Late,PayPal,Product 49
+512,Low,WH-3,Regular,Delivered,False,Damaged,Cash,Product 52
+519,Medium,WH-1,2-Day,Pending,True,Late,Credit Card,Product 27
+524,Critical,WH-2,Express,Delivered,False,Damaged,Credit Card,Product 32
+538,Critical,WH-2,Regular,Cancelled,False,Wrong Item,PayPal,Product 61
+518,Medium,WH-3,Overnight,Backorder,True,Wrong Item,Cash,Product 23
+512,High,WH-1,Regular,Cancelled,True,Damaged,Cash,Product 54
+550,High,WH-2,Express,Pending,False,Damaged,Cash,Product 39
+508,Critical,WH-1,Regular,Cancelled,True,Late,PayPal,Product 58
+509,Low,WH-1,Regular,Delivered,True,Late,PayPal,Product 62
+556,High,WH-1,2-Day,Backorder,False,Late,Wire Transfer,Product 53
+538,Medium,WH-1,2-Day,Cancelled,True,Not Specified,Credit Card,Product 32
+554,Low,WH-2,2-Day,Delivered,True,Not Specified,PayPal,Product 38
+508,Low,WH-3,Express,Delivered,False,Damaged,PayPal,Product 77
+513,Critical,WH-2,Overnight,Cancelled,True,Not Specified,PayPal,Product 30
+559,High,WH-3,2-Day,Backorder,True,Wrong Item,Credit Card,Product 5
+539,Critical,WH-3,2-Day,Cancelled,True,unkown,Credit Card,Product 68
+505,Low,WH-1,2-Day,Cancelled,True,Not Specified,Wire Transfer,Product 36
+506,High,WH-1,Overnight,Pending,False,unkown,Credit Card,Product 65
+539,High,WH-1,Regular,Cancelled,True,Damaged,Wire Transfer,Product 96
+549,Low,WH-3,2-Day,Delivered,False,unkown,Wire Transfer,Product 33
+503,Critical,WH-3,Overnight,Backorder,True,Late,Wire Transfer,Product 26
+539,Medium,WH-3,Overnight,Cancelled,True,Damaged,Wire Transfer,Product 22
+538,Medium,WH-3,Regular,Delivered,True,Damaged,Credit Card,Product 92
+543,Critical,WH-2,2-Day,Backorder,False,Damaged,Wire Transfer,Product 67
+550,High,WH-2,Overnight,Delivered,True,Wrong Item,Wire Transfer,Product 38
+542,High,WH-2,2-Day,Cancelled,False,Late,PayPal,Product 60
+553,High,WH-1,Express,Cancelled,False,Damaged,PayPal,Product 18
+501,Medium,WH-1,Overnight,Backorder,False,Wrong Item,Credit Card,Product 69
+559,High,WH-2,Overnight,Delivered,False,unkown,Credit Card,Product 20
+521,Medium,WH-2,Regular,Backorder,True,Late,Wire Transfer,Product 21
+522,Low,WH-2,Overnight,Backorder,True,Wrong Item,Wire Transfer,Product 86
+530,High,WH-3,Express,Delivered,False,Not Specified,PayPal,Product 32
+543,High,WH-3,Express,Backorder,False,Not Specified,PayPal,Product 1
+557,Low,WH-2,Express,Backorder,False,Damaged,PayPal,Product 85
+553,Medium,WH-2,2-Day,Backorder,False,Damaged,PayPal,Product 65
+547,Critical,WH-2,Overnight,Cancelled,True,Damaged,Wire Transfer,Product 9
+523,Low,WH-3,Regular,Pending,True,Late,PayPal,Product 72
+544,Medium,WH-2,2-Day,Pending,True,Damaged,PayPal,Product 71
+512,Low,WH-1,2-Day,Backorder,True,unkown,Wire Transfer,Product 85
+558,High,WH-2,Express,Cancelled,True,Late,Wire Transfer,Product 76
+524,Critical,WH-3,Regular,Delivered,True,Not Specified,Credit Card,Product 85
+552,Medium,WH-2,Express,Cancelled,False,Wrong Item,Cash,Product 39
+528,Critical,WH-1,Overnight,Cancelled,False,Late,Credit Card,Product 53
+530,High,WH-3,Overnight,Backorder,True,Late,Cash,Product 9
+507,High,WH-2,Regular,Cancelled,True,Not Specified,Cash,Product 98
+546,Critical,WH-1,Express,Cancelled,True,Late,Wire Transfer,Product 57
+545,Critical,WH-3,2-Day,Backorder,True,Not Specified,Credit Card,Product 60
+503,Medium,WH-2,Express,Delivered,False,Late,Cash,Product 53
+547,High,WH-3,Regular,Pending,False,Not Specified,Credit Card,Product 3
+512,Low,WH-2,Regular,Delivered,True,Damaged,Cash,Product 70
+504,Low,WH-2,2-Day,Pending,False,Wrong Item,Wire Transfer,Product 9
+511,Medium,WH-1,Express,Delivered,False,Late,Cash,Product 97
+525,High,WH-3,Express,Backorder,False,Damaged,Wire Transfer,Product 20
+534,Low,WH-2,Regular,Cancelled,False,Wrong Item,PayPal,Product 18
+524,High,WH-3,Express,Delivered,True,Wrong Item,PayPal,Product 47
+525,High,WH-3,Regular,Delivered,True,Not Specified,Wire Transfer,Product 49
+512,Low,WH-1,Regular,Cancelled,False,Late,Credit Card,Product 69
+550,Critical,WH-2,2-Day,Cancelled,False,Wrong Item,Credit Card,Product 92
+526,Critical,WH-3,Overnight,Backorder,False,Damaged,PayPal,Product 95
+504,Medium,WH-2,Regular,Delivered,True,Not Specified,Cash,Product 16
+560,Medium,WH-1,Regular,Delivered,False,Wrong Item,Cash,Product 92
+559,Medium,WH-2,Regular,Pending,False,Wrong Item,Wire Transfer,Product 89
+560,Critical,WH-2,Express,Backorder,True,unkown,Cash,Product 97
+503,Low,WH-3,Overnight,Cancelled,True,unkown,Wire Transfer,Product 44
+503,Medium,WH-2,Overnight,Cancelled,True,Not Specified,Cash,Product 35
+545,Low,WH-1,2-Day,Backorder,False,Late,PayPal,Product 88
+545,Low,WH-3,Overnight,Delivered,True,Late,Cash,Product 63
+555,Medium,WH-3,2-Day,Backorder,True,unkown,PayPal,Product 48
+525,Medium,WH-1,Express,Pending,True,Wrong Item,Cash,Product 40
+535,Critical,WH-2,2-Day,Backorder,False,Wrong Item,PayPal,Product 58
+502,Low,WH-1,Overnight,Pending,False,Wrong Item,PayPal,Product 61
+519,Low,WH-2,2-Day,Pending,False,Damaged,Wire Transfer,Product 32
+526,Medium,WH-3,Express,Delivered,False,Damaged,Wire Transfer,Product 58
+533,Medium,WH-3,Overnight,Delivered,False,unkown,Credit Card,Product 6
+548,High,WH-2,Express,Backorder,False,Wrong Item,Cash,Product 32
+509,Medium,WH-2,Express,Delivered,False,Damaged,Credit Card,Product 68
+518,High,WH-3,2-Day,Pending,False,unkown,PayPal,Product 68
+515,Medium,WH-2,Regular,Pending,False,Late,PayPal,Product 88
+512,Low,WH-3,Express,Backorder,True,Not Specified,Credit Card,Product 83
+540,High,WH-3,Overnight,Pending,False,Not Specified,Wire Transfer,Product 7
+505,Low,WH-2,Overnight,Cancelled,True,Wrong Item,Credit Card,Product 1
+521,Low,WH-3,Regular,Cancelled,True,Damaged,Cash,Product 43
+536,High,WH-2,Regular,Pending,False,Not Specified,Wire Transfer,Product 6
+527,Low,WH-1,Express,Delivered,False,Wrong Item,Cash,Product 33
+520,Medium,WH-3,Regular,Backorder,False,Wrong Item,Cash,Product 18
+551,Critical,WH-2,2-Day,Pending,True,unkown,Wire Transfer,Product 85
+515,Critical,WH-2,Express,Backorder,True,Wrong Item,PayPal,Product 29
+544,Critical,WH-2,Overnight,Delivered,True,Not Specified,Cash,Product 77
+501,Low,WH-1,Overnight,Delivered,False,Wrong Item,Cash,Product 55
+545,Low,WH-1,Express,Cancelled,True,Late,Credit Card,Product 6
+514,Medium,WH-3,Regular,Cancelled,True,Damaged,PayPal,Product 4
+557,High,WH-3,2-Day,Delivered,True,Late,Credit Card,Product 71
+511,High,WH-1,Overnight,Delivered,True,Damaged,PayPal,Product 29
+513,Medium,WH-2,2-Day,Pending,True,Late,Cash,Product 36
+513,Medium,WH-1,Regular,Pending,False,Wrong Item,Wire Transfer,Product 82
+512,Low,WH-2,Express,Delivered,False,Wrong Item,Cash,Product 89
+533,Low,WH-1,Regular,Delivered,False,Late,Wire Transfer,Product 40
+534,High,WH-2,2-Day,Delivered,True,Not Specified,Wire Transfer,Product 42
+537,High,WH-1,Regular,Pending,True,Late,Credit Card,Product 10
+553,High,WH-2,Express,Delivered,True,unkown,PayPal,Product 3
+513,Low,WH-1,Regular,Cancelled,False,Late,Wire Transfer,Product 60
+530,Low,WH-1,Express,Cancelled,False,Late,Cash,Product 29
+553,High,WH-2,Regular,Backorder,False,Not Specified,Credit Card,Product 67
+530,Low,WH-3,Regular,Cancelled,False,Late,Cash,Product 98
+505,High,WH-2,2-Day,Backorder,True,Damaged,Wire Transfer,Product 81
+554,High,WH-3,2-Day,Cancelled,False,Damaged,Cash,Product 33
+520,Low,WH-1,2-Day,Backorder,False,Damaged,Cash,Product 26
+553,Critical,WH-2,2-Day,Pending,False,Damaged,PayPal,Product 94
+547,High,WH-3,Regular,Backorder,False,Late,Cash,Product 78
+554,High,WH-2,2-Day,Delivered,True,Damaged,Credit Card,Product 16
+549,Medium,WH-1,Regular,Cancelled,False,Late,Wire Transfer,Product 17
+547,Medium,WH-1,Express,Cancelled,True,Not Specified,Cash,Product 48
+520,Critical,WH-3,2-Day,Pending,False,unkown,Credit Card,Product 82
+522,Low,WH-1,Express,Cancelled,True,Not Specified,PayPal,Product 84
+542,Critical,WH-3,Overnight,Delivered,False,Wrong Item,Wire Transfer,Product 52
+504,Critical,WH-2,2-Day,Pending,False,Wrong Item,Credit Card,Product 81
+505,Critical,WH-1,Regular,Pending,True,Not Specified,Cash,Product 41
+523,Critical,WH-1,Overnight,Cancelled,False,unkown,Wire Transfer,Product 90
+546,High,WH-1,Regular,Pending,True,Wrong Item,Credit Card,Product 53
+557,Medium,WH-1,Overnight,Cancelled,False,Wrong Item,PayPal,Product 78
+549,High,WH-3,Express,Backorder,False,Wrong Item,Cash,Product 96
+518,Medium,WH-2,Regular,Backorder,False,Late,Wire Transfer,Product 73
+520,High,WH-2,Overnight,Cancelled,True,Late,Cash,Product 48
+510,Low,WH-3,Regular,Pending,False,Wrong Item,Credit Card,Product 99
+527,Low,WH-3,2-Day,Backorder,True,Wrong Item,PayPal,Product 84
+515,Medium,WH-3,Regular,Pending,False,Late,Cash,Product 12
+516,Medium,WH-2,Express,Cancelled,False,Damaged,Cash,Product 22
+541,Critical,WH-3,Regular,Cancelled,True,Wrong Item,PayPal,Product 56
+550,High,WH-1,2-Day,Delivered,False,Damaged,PayPal,Product 35
+516,Low,WH-2,2-Day,Pending,True,Damaged,Wire Transfer,Product 28
+526,High,WH-2,Regular,Delivered,True,Damaged,Cash,Product 61
+529,High,WH-2,Regular,Pending,True,Damaged,Cash,Product 50
+513,Medium,WH-3,2-Day,Cancelled,False,Wrong Item,PayPal,Product 64
+535,Medium,WH-2,Regular,Backorder,True,Not Specified,Credit Card,Product 41
+543,Low,WH-2,Overnight,Delivered,True,Late,Credit Card,Product 20
+517,Critical,WH-3,2-Day,Delivered,True,Not Specified,PayPal,Product 21
+544,Low,WH-2,2-Day,Delivered,True,Late,PayPal,Product 80
+518,Critical,WH-3,Overnight,Cancelled,False,Not Specified,Credit Card,Product 58
+525,Critical,WH-2,Overnight,Pending,False,Not Specified,PayPal,Product 52
+542,High,WH-3,Overnight,Backorder,False,Not Specified,Cash,Product 70
+545,Low,WH-2,2-Day,Cancelled,False,Wrong Item,Cash,Product 48
+529,Low,WH-2,Express,Backorder,False,Wrong Item,Wire Transfer,Product 93
+560,High,WH-1,Overnight,Backorder,True,Not Specified,Cash,Product 50
+526,Critical,WH-3,Regular,Cancelled,True,Wrong Item,PayPal,Product 25
+529,Medium,WH-1,Regular,Backorder,False,Damaged,Cash,Product 23
+541,High,WH-1,Overnight,Backorder,True,Not Specified,Credit Card,Product 96
+527,Critical,WH-2,Express,Cancelled,True,unkown,Credit Card,Product 38
+552,Low,WH-2,Overnight,Pending,False,Late,Credit Card,Product 90
+557,Medium,WH-3,Express,Cancelled,True,Wrong Item,PayPal,Product 46
+531,Low,WH-1,Regular,Delivered,True,Late,Cash,Product 71
+544,High,WH-2,2-Day,Cancelled,False,Not Specified,Credit Card,Product 85
+542,High,WH-1,Regular,Backorder,False,Damaged,Cash,Product 12
+536,High,WH-3,2-Day,Backorder,False,Not Specified,Cash,Product 81
+522,Low,WH-1,Express,Delivered,False,unkown,Wire Transfer,Product 45
+520,Low,WH-2,Overnight,Pending,False,Late,Credit Card,Product 74
+547,Medium,WH-2,Overnight,Delivered,False,Not Specified,Cash,Product 66
+534,Medium,WH-1,Overnight,Cancelled,False,Not Specified,Wire Transfer,Product 67
+521,High,WH-2,2-Day,Pending,True,Wrong Item,Wire Transfer,Product 15
+521,Medium,WH-1,2-Day,Delivered,False,Damaged,Cash,Product 16
+560,Low,WH-1,Regular,Delivered,True,Wrong Item,Wire Transfer,Product 13
+542,High,WH-3,2-Day,Pending,True,unkown,PayPal,Product 60
+525,Medium,WH-3,Regular,Pending,False,Not Specified,Wire Transfer,Product 11
+556,Critical,WH-1,Regular,Backorder,False,Late,Credit Card,Product 58
+539,Critical,WH-3,2-Day,Cancelled,False,Late,Cash,Product 52
+533,Low,WH-2,Regular,Cancelled,False,Damaged,Wire Transfer,Product 30
+538,Critical,WH-2,2-Day,Cancelled,False,Not Specified,Wire Transfer,Product 71
+529,Critical,WH-2,Overnight,Cancelled,True,Not Specified,Cash,Product 34
+555,Low,WH-1,Express,Cancelled,True,unkown,PayPal,Product 76
+541,Low,WH-3,2-Day,Cancelled,False,Late,Credit Card,Product 84
+534,High,WH-1,Regular,Pending,False,Late,Wire Transfer,Product 84
+558,Critical,WH-3,Express,Pending,True,Not Specified,Wire Transfer,Product 84
+551,High,WH-2,Regular,Delivered,True,Wrong Item,Credit Card,Product 97
+553,Critical,WH-1,2-Day,Pending,True,Not Specified,PayPal,Product 11
+508,Low,WH-1,Express,Backorder,False,Damaged,PayPal,Product 72
+550,High,WH-3,Overnight,Delivered,False,Not Specified,Wire Transfer,Product 82
+512,Medium,WH-3,Regular,Backorder,True,Damaged,Cash,Product 87
+536,Low,WH-3,Overnight,Backorder,True,Late,Cash,Product 91
+522,Low,WH-2,Overnight,Backorder,False,Wrong Item,Cash,Product 18
+505,High,WH-3,Overnight,Backorder,True,Late,Wire Transfer,Product 37
+529,Critical,WH-1,2-Day,Cancelled,False,Wrong Item,PayPal,Product 84
+535,Low,WH-2,2-Day,Cancelled,False,Late,PayPal,Product 80
+559,High,WH-1,Regular,Backorder,False,Wrong Item,Cash,Product 18
+517,Low,WH-3,Overnight,Delivered,False,unkown,Wire Transfer,Product 20
+515,High,WH-2,Express,Delivered,False,Damaged,Cash,Product 51
+544,Critical,WH-1,2-Day,Delivered,False,Late,Cash,Product 19
+515,High,WH-1,Regular,Delivered,True,Damaged,PayPal,Product 13
+549,Medium,WH-2,Regular,Backorder,True,Damaged,Credit Card,Product 34
+535,High,WH-1,Regular,Cancelled,False,Wrong Item,Cash,Product 67
+510,High,WH-2,Regular,Cancelled,False,Late,PayPal,Product 8
+544,Low,WH-2,2-Day,Backorder,False,unkown,Wire Transfer,Product 16
+511,Low,WH-2,Overnight,Cancelled,False,Wrong Item,Credit Card,Product 71
+516,High,WH-2,2-Day,Backorder,False,Damaged,Credit Card,Product 97
+521,Low,WH-1,Regular,Pending,True,unkown,PayPal,Product 69
+549,Low,WH-2,Overnight,Cancelled,False,Damaged,Wire Transfer,Product 40
+521,Medium,WH-1,Regular,Cancelled,True,Damaged,Wire Transfer,Product 12
+502,Medium,WH-2,Regular,Cancelled,True,Not Specified,Credit Card,Product 50
+514,Low,WH-1,Regular,Pending,True,Damaged,PayPal,Product 81
+546,Low,WH-3,2-Day,Pending,False,unkown,PayPal,Product 1
+519,Critical,WH-1,Express,Delivered,False,Wrong Item,Credit Card,Product 57
+502,Medium,WH-1,2-Day,Delivered,False,Not Specified,Wire Transfer,Product 25
+505,Critical,WH-3,Regular,Backorder,True,Late,Wire Transfer,Product 96
+518,Low,WH-3,Overnight,Pending,False,Wrong Item,PayPal,Product 4
+536,Low,WH-1,Regular,Cancelled,False,Not Specified,Credit Card,Product 79
+539,Critical,WH-1,Regular,Pending,False,Late,Wire Transfer,Product 76
+539,Low,WH-2,Regular,Backorder,False,Wrong Item,Cash,Product 88
+532,High,WH-3,Express,Backorder,True,Wrong Item,Wire Transfer,Product 42
+533,Low,WH-2,2-Day,Pending,True,Not Specified,Cash,Product 69
+515,Low,WH-1,Overnight,Backorder,True,Late,PayPal,Product 75
+557,High,WH-2,Express,Cancelled,True,Wrong Item,Cash,Product 9
+508,Critical,WH-3,Regular,Pending,False,Not Specified,Cash,Product 87
+504,Critical,WH-2,Overnight,Cancelled,False,Wrong Item,Wire Transfer,Product 27
+511,Low,WH-1,Express,Delivered,False,Late,PayPal,Product 13
+524,Critical,WH-3,Express,Backorder,False,Late,Cash,Product 50
+555,High,WH-3,Regular,Delivered,True,Late,Cash,Product 87
+549,Critical,WH-2,Overnight,Delivered,False,Damaged,Cash,Product 38
+517,Critical,WH-2,Regular,Cancelled,True,Late,Wire Transfer,Product 36
+555,Critical,WH-1,Regular,Cancelled,False,Wrong Item,Cash,Product 2
+555,Critical,WH-3,Regular,Delivered,True,Late,PayPal,Product 66
+541,High,WH-3,Express,Backorder,True,Wrong Item,Cash,Product 89
+517,Low,WH-1,2-Day,Pending,True,Wrong Item,Credit Card,Product 32
+523,Critical,WH-1,2-Day,Backorder,False,Damaged,Wire Transfer,Product 30
+517,High,WH-1,Regular,Backorder,True,Damaged,Cash,Product 91
+522,Critical,WH-1,2-Day,Cancelled,True,Wrong Item,Wire Transfer,Product 48
+534,Medium,WH-1,2-Day,Backorder,False,Late,Credit Card,Product 98
+509,Low,WH-3,Regular,Pending,False,Not Specified,Cash,Product 70
+514,Critical,WH-3,Express,Cancelled,False,Not Specified,Credit Card,Product 87
+515,Low,WH-1,2-Day,Backorder,True,Not Specified,Credit Card,Product 41
+532,Low,WH-3,Express,Backorder,False,Wrong Item,PayPal,Product 80
+527,High,WH-3,Overnight,Cancelled,False,Not Specified,Credit Card,Product 88
+537,Critical,WH-2,2-Day,Delivered,True,Wrong Item,Credit Card,Product 95
+543,Critical,WH-2,Express,Backorder,True,Damaged,Cash,Product 62
+514,High,WH-3,Express,Backorder,False,Late,PayPal,Product 91
+556,Medium,WH-1,Regular,Pending,False,Wrong Item,Credit Card,Product 91
+551,Critical,WH-3,2-Day,Delivered,False,Damaged,Cash,Product 19
+508,Medium,WH-3,2-Day,Backorder,False,Wrong Item,Credit Card,Product 72
+546,Critical,WH-2,Express,Delivered,True,Late,Cash,Product 27
+516,Medium,WH-1,Regular,Delivered,False,Not Specified,Cash,Product 96
+513,High,WH-1,2-Day,Cancelled,True,Damaged,PayPal,Product 18
+522,Low,WH-2,Regular,Pending,False,Damaged,Cash,Product 1
+508,Critical,WH-2,2-Day,Pending,True,Damaged,Cash,Product 24
+506,Medium,WH-2,Regular,Delivered,False,Not Specified,PayPal,Product 58
+506,Medium,WH-1,Regular,Delivered,False,Damaged,Credit Card,Product 94
+560,High,WH-1,Regular,Backorder,False,Late,Credit Card,Product 91
+560,Critical,WH-2,Express,Delivered,True,Late,Credit Card,Product 82
+504,Critical,WH-2,Regular,Pending,False,unkown,Cash,Product 6
+507,Low,WH-3,Regular,Delivered,False,Wrong Item,Cash,Product 8
+560,Medium,WH-3,2-Day,Cancelled,False,Not Specified,Cash,Product 33
+530,Critical,WH-1,Overnight,Delivered,True,unkown,Wire Transfer,Product 35
+522,Critical,WH-1,2-Day,Cancelled,False,Wrong Item,PayPal,Product 34
+538,Low,WH-2,Overnight,Backorder,False,Not Specified,Credit Card,Product 89
+503,Low,WH-2,Express,Cancelled,True,Not Specified,Wire Transfer,Product 34
+516,High,WH-2,2-Day,Backorder,True,unkown,Cash,Product 92
+531,Low,WH-1,Regular,Delivered,True,Late,Cash,Product 46
+509,Critical,WH-2,Overnight,Delivered,True,Damaged,Wire Transfer,Product 47
+529,Medium,WH-1,Regular,Pending,True,Damaged,Wire Transfer,Product 72
+522,High,WH-2,Regular,Cancelled,False,Wrong Item,PayPal,Product 87
+543,High,WH-2,Overnight,Delivered,False,Late,Credit Card,Product 25
+544,Critical,WH-3,2-Day,Delivered,True,Wrong Item,Credit Card,Product 84
+517,Critical,WH-2,Overnight,Pending,False,Not Specified,Wire Transfer,Product 41
+508,Medium,WH-2,Regular,Pending,True,unkown,Credit Card,Product 70
+559,High,WH-3,Regular,Delivered,False,Damaged,Wire Transfer,Product 19
+527,Low,WH-1,Regular,Backorder,False,Damaged,Credit Card,Product 1
+511,Medium,WH-2,Express,Backorder,False,Wrong Item,PayPal,Product 5
+545,Low,WH-2,Express,Cancelled,True,Late,Credit Card,Product 77
+507,High,WH-3,Overnight,Cancelled,True,Late,PayPal,Product 81
+538,Low,WH-1,Regular,Pending,False,Damaged,PayPal,Product 52
+547,Critical,WH-2,Regular,Backorder,True,Damaged,Cash,Product 86
+559,Low,WH-2,Express,Delivered,False,Wrong Item,Wire Transfer,Product 52
+520,Medium,WH-2,Overnight,Delivered,False,Wrong Item,Credit Card,Product 56
+520,High,WH-2,Regular,Delivered,True,Wrong Item,Wire Transfer,Product 2
+551,Medium,WH-3,Regular,Pending,False,Late,Credit Card,Product 81
+541,Low,WH-3,2-Day,Backorder,True,Late,Wire Transfer,Product 55
+557,High,WH-2,Regular,Cancelled,False,Damaged,Cash,Product 47
+505,High,WH-1,2-Day,Delivered,True,Wrong Item,Cash,Product 43
+550,High,WH-1,Express,Backorder,True,Late,PayPal,Product 36
+519,Low,WH-2,Regular,Delivered,True,Late,Cash,Product 8
+515,Medium,WH-3,Express,Delivered,True,Wrong Item,Cash,Product 32
+556,Medium,WH-3,Overnight,Cancelled,True,Wrong Item,PayPal,Product 88
+517,Medium,WH-2,Overnight,Backorder,True,Not Specified,Cash,Product 56
+501,Critical,WH-3,Express,Pending,True,Wrong Item,Cash,Product 19
+535,High,WH-3,2-Day,Backorder,True,Late,Credit Card,Product 90
+557,Medium,WH-2,Overnight,Delivered,False,Damaged,Cash,Product 72
+531,High,WH-3,Regular,Backorder,True,Late,Cash,Product 9
+502,Low,WH-1,Regular,Cancelled,True,Wrong Item,PayPal,Product 46
+543,High,WH-2,Express,Pending,True,Not Specified,Cash,Product 21
+512,Critical,WH-2,2-Day,Delivered,True,Late,PayPal,Product 12
+520,Critical,WH-2,2-Day,Backorder,True,unkown,Cash,Product 64
+555,High,WH-1,Express,Pending,False,unkown,PayPal,Product 93
+560,High,WH-2,Regular,Delivered,False,Damaged,Cash,Product 33
+548,Low,WH-1,Overnight,Delivered,True,unkown,PayPal,Product 43
+534,Medium,WH-3,2-Day,Delivered,False,Late,Cash,Product 25
+534,High,WH-3,Overnight,Delivered,False,Damaged,Wire Transfer,Product 73
+530,Medium,WH-2,Regular,Pending,False,Damaged,Wire Transfer,Product 97
+508,Low,WH-1,Express,Cancelled,True,Late,Credit Card,Product 96
+541,Low,WH-1,Overnight,Delivered,False,Wrong Item,Wire Transfer,Product 50
+530,Medium,WH-3,2-Day,Cancelled,False,Wrong Item,Cash,Product 35
+559,High,WH-3,Regular,Cancelled,False,Damaged,PayPal,Product 70
+529,Low,WH-3,2-Day,Delivered,False,Late,PayPal,Product 23
+520,Low,WH-1,Overnight,Backorder,True,Wrong Item,Wire Transfer,Product 14
+516,Low,WH-2,Regular,Pending,True,Damaged,Cash,Product 11
+556,Medium,WH-3,2-Day,Pending,True,Not Specified,Wire Transfer,Product 69
+536,High,WH-2,Overnight,Cancelled,False,Wrong Item,Wire Transfer,Product 87
+560,Critical,WH-1,Regular,Delivered,False,unkown,PayPal,Product 96
+558,Critical,WH-1,Regular,Cancelled,True,Damaged,Cash,Product 10
+515,High,WH-1,2-Day,Pending,True,Damaged,PayPal,Product 25
+529,Medium,WH-2,Regular,Pending,False,Wrong Item,Cash,Product 99
+517,High,WH-2,Express,Pending,False,Damaged,PayPal,Product 51
+526,High,WH-3,Regular,Cancelled,True,Late,Credit Card,Product 74
+532,Low,WH-2,Regular,Cancelled,True,unkown,PayPal,Product 92
+532,Medium,WH-3,Overnight,Backorder,False,Not Specified,Credit Card,Product 6
+533,Critical,WH-2,2-Day,Backorder,True,Damaged,Cash,Product 94
+556,Low,WH-1,Regular,Pending,False,Late,Cash,Product 13
+554,Low,WH-1,Express,Delivered,True,Not Specified,Wire Transfer,Product 29
+558,Critical,WH-2,Express,Pending,True,Wrong Item,Wire Transfer,Product 33
+524,Low,WH-1,Express,Pending,True,Not Specified,PayPal,Product 76
+518,Low,WH-1,Regular,Cancelled,False,Not Specified,Cash,Product 19
+533,High,WH-1,Express,Cancelled,False,Damaged,Cash,Product 61
+546,Medium,WH-3,Express,Delivered,False,Wrong Item,Wire Transfer,Product 51
+526,Low,WH-2,Overnight,Cancelled,True,Not Specified,Wire Transfer,Product 60
+516,High,WH-3,2-Day,Cancelled,False,Late,Cash,Product 76
+507,High,WH-3,Regular,Delivered,True,unkown,Credit Card,Product 42
+539,High,WH-1,Express,Pending,False,Not Specified,PayPal,Product 85
+537,High,WH-2,Overnight,Pending,False,Late,Wire Transfer,Product 21
+544,High,WH-3,Regular,Backorder,True,Not Specified,PayPal,Product 11
+517,Low,WH-3,Express,Pending,False,Not Specified,PayPal,Product 24
+513,High,WH-1,Regular,Pending,False,Wrong Item,PayPal,Product 97
+558,Critical,WH-2,2-Day,Cancelled,True,Wrong Item,PayPal,Product 74
+532,Low,WH-3,Overnight,Delivered,False,Not Specified,Cash,Product 54
+541,Medium,WH-2,Regular,Pending,False,Not Specified,Credit Card,Product 18
+520,Low,WH-1,Regular,Backorder,False,unkown,Cash,Product 59
+520,Low,WH-1,2-Day,Backorder,False,Late,Credit Card,Product 53
+518,Critical,WH-3,Overnight,Delivered,False,Damaged,PayPal,Product 42
+529,Medium,WH-3,Express,Delivered,False,Wrong Item,Cash,Product 81
+522,Medium,WH-1,Regular,Backorder,True,Damaged,PayPal,Product 16
+558,High,WH-1,2-Day,Pending,False,Late,PayPal,Product 50
+509,Medium,WH-1,2-Day,Backorder,True,Wrong Item,Cash,Product 89
+537,High,WH-1,Express,Cancelled,False,Damaged,Cash,Product 50
+514,High,WH-3,Regular,Backorder,False,Wrong Item,Wire Transfer,Product 56
+536,High,WH-2,2-Day,Delivered,False,Wrong Item,Cash,Product 13
+544,Low,WH-2,2-Day,Pending,True,Wrong Item,Cash,Product 62
+540,Low,WH-2,Express,Delivered,True,Late,PayPal,Product 45
+534,High,WH-3,Overnight,Delivered,False,Wrong Item,Cash,Product 76
+536,Medium,WH-2,Express,Cancelled,True,Wrong Item,Cash,Product 47
+542,Medium,WH-2,2-Day,Pending,False,Not Specified,PayPal,Product 52
+532,Low,WH-1,Overnight,Cancelled,False,Not Specified,Credit Card,Product 80
+555,Critical,WH-1,2-Day,Cancelled,True,Damaged,Wire Transfer,Product 70
+550,High,WH-1,Overnight,Backorder,True,Not Specified,Cash,Product 60
+531,Low,WH-2,2-Day,Pending,False,Late,Cash,Product 60
+532,Critical,WH-1,Overnight,Backorder,False,Not Specified,Wire Transfer,Product 30
+522,Medium,WH-2,Express,Pending,True,Not Specified,Cash,Product 46
+547,Medium,WH-1,2-Day,Backorder,True,unkown,Credit Card,Product 19
+524,Low,WH-3,Express,Delivered,False,Damaged,Wire Transfer,Product 27
+503,Critical,WH-3,Regular,Backorder,False,Damaged,Credit Card,Product 34
+502,High,WH-3,2-Day,Pending,False,Wrong Item,Wire Transfer,Product 1
+553,Medium,WH-2,Express,Cancelled,False,Late,Wire Transfer,Product 96
+526,Medium,WH-1,Express,Delivered,True,Not Specified,Credit Card,Product 74
+560,Medium,WH-2,Regular,Pending,False,Wrong Item,Wire Transfer,Product 6
+541,Low,WH-2,2-Day,Delivered,False,unkown,Credit Card,Product 66
+519,Medium,WH-2,Overnight,Backorder,True,Damaged,PayPal,Product 69
+506,Medium,WH-2,Overnight,Backorder,False,Damaged,PayPal,Product 61
+511,Medium,WH-2,Express,Cancelled,False,Not Specified,PayPal,Product 53
+507,Critical,WH-1,2-Day,Delivered,False,Wrong Item,Cash,Product 46
+548,Medium,WH-1,Overnight,Delivered,True,Not Specified,Wire Transfer,Product 59
+550,Critical,WH-1,2-Day,Delivered,True,Not Specified,Wire Transfer,Product 3
+510,Critical,WH-2,Regular,Delivered,False,Wrong Item,PayPal,Product 48
+548,High,WH-2,Express,Cancelled,True,Late,Credit Card,Product 54
+501,High,WH-3,Express,Delivered,False,Damaged,Cash,Product 21
+523,Low,WH-2,Regular,Pending,True,Damaged,Credit Card,Product 13
+528,Medium,WH-2,Regular,Cancelled,False,Late,Cash,Product 4
+552,Critical,WH-1,Express,Backorder,True,Damaged,Wire Transfer,Product 88
+507,Medium,WH-3,Overnight,Delivered,True,Wrong Item,Wire Transfer,Product 5
+512,Critical,WH-3,Express,Cancelled,False,unkown,Credit Card,Product 48
+545,Medium,WH-3,2-Day,Backorder,False,Damaged,Credit Card,Product 95
+512,Low,WH-1,Regular,Backorder,False,Late,Cash,Product 24
+506,Critical,WH-1,Express,Delivered,True,Not Specified,Credit Card,Product 58
+513,Medium,WH-1,Overnight,Cancelled,False,Wrong Item,PayPal,Product 93
+502,Low,WH-1,2-Day,Pending,True,Wrong Item,Credit Card,Product 26
+514,Critical,WH-3,2-Day,Pending,False,Not Specified,Credit Card,Product 3
+523,Medium,WH-3,Overnight,Pending,False,Not Specified,Cash,Product 93
+544,Critical,WH-2,Express,Delivered,True,Not Specified,Cash,Product 59
+541,Medium,WH-2,Overnight,Cancelled,False,Late,Wire Transfer,Product 12
+506,Medium,WH-3,Overnight,Pending,False,Wrong Item,Wire Transfer,Product 72
+513,High,WH-2,Regular,Cancelled,False,Late,Credit Card,Product 60
+508,Low,WH-1,Overnight,Delivered,False,Late,Wire Transfer,Product 91
+547,Medium,WH-2,Overnight,Backorder,True,Late,Wire Transfer,Product 44
+513,Low,WH-1,Express,Pending,True,Wrong Item,Credit Card,Product 57
+508,Medium,WH-1,Overnight,Cancelled,False,unkown,Cash,Product 92
+542,Critical,WH-3,2-Day,Backorder,True,unkown,Wire Transfer,Product 58
+530,Medium,WH-1,Express,Pending,True,Late,PayPal,Product 56
+534,Critical,WH-1,2-Day,Delivered,True,Late,Credit Card,Product 50
+521,Critical,WH-2,Regular,Delivered,False,Wrong Item,Credit Card,Product 33
+536,High,WH-1,2-Day,Delivered,True,unkown,Cash,Product 22
+551,Critical,WH-2,Express,Cancelled,True,Wrong Item,PayPal,Product 81
+525,High,WH-3,2-Day,Delivered,True,Not Specified,Cash,Product 47
+538,Medium,WH-2,2-Day,Delivered,False,unkown,Credit Card,Product 39
+512,High,WH-2,Regular,Backorder,False,Wrong Item,Credit Card,Product 44
+526,Medium,WH-1,Overnight,Pending,False,Late,Wire Transfer,Product 58
+503,Medium,WH-3,Express,Delivered,True,Not Specified,Credit Card,Product 85
+523,High,WH-1,Regular,Delivered,False,Not Specified,Wire Transfer,Product 65
+515,High,WH-3,Overnight,Backorder,True,Damaged,Credit Card,Product 27
+523,Critical,WH-2,Overnight,Pending,True,Damaged,Credit Card,Product 85
+546,Critical,WH-3,Regular,Delivered,False,Late,Wire Transfer,Product 51
+555,Medium,WH-1,2-Day,Delivered,True,Not Specified,Cash,Product 35
+544,Critical,WH-2,Express,Pending,False,unkown,Credit Card,Product 86
+502,Medium,WH-3,Express,Delivered,False,Damaged,Wire Transfer,Product 85
+524,Low,WH-1,Overnight,Backorder,False,Not Specified,Cash,Product 2
+523,Critical,WH-1,Express,Delivered,False,Late,Credit Card,Product 18
+545,Critical,WH-1,Express,Backorder,False,Late,Credit Card,Product 94
+515,High,WH-2,Express,Cancelled,True,Not Specified,PayPal,Product 83
+528,Critical,WH-2,Overnight,Backorder,True,Late,PayPal,Product 31
+518,Low,WH-3,Express,Backorder,False,Late,Wire Transfer,Product 58
+559,Medium,WH-1,Regular,Pending,True,unkown,Cash,Product 69
+524,Critical,WH-3,2-Day,Pending,True,Damaged,Credit Card,Product 89
+555,Critical,WH-3,Express,Backorder,True,Wrong Item,Cash,Product 23
+553,Critical,WH-1,Overnight,Pending,False,Wrong Item,Cash,Product 74
+536,Low,WH-1,Regular,Backorder,False,Late,Credit Card,Product 10
+541,Low,WH-1,2-Day,Pending,False,Late,PayPal,Product 75
+537,High,WH-1,Overnight,Backorder,True,Late,PayPal,Product 19
+550,Medium,WH-1,Regular,Cancelled,True,Wrong Item,Cash,Product 44
+502,Medium,WH-1,Regular,Pending,True,Damaged,Cash,Product 79
+503,Low,WH-2,Express,Delivered,False,unkown,PayPal,Product 24
+554,High,WH-2,Overnight,Cancelled,False,unkown,Cash,Product 45
+518,Low,WH-1,Regular,Backorder,True,Wrong Item,Credit Card,Product 2
+528,High,WH-3,Regular,Backorder,True,Wrong Item,Credit Card,Product 22
+510,Critical,WH-3,Express,Delivered,True,Wrong Item,PayPal,Product 80
+540,Low,WH-3,Regular,Delivered,False,Late,Credit Card,Product 52
+504,Low,WH-1,Regular,Cancelled,False,Damaged,PayPal,Product 48
+525,Critical,WH-2,Express,Cancelled,False,Damaged,PayPal,Product 45
+502,Low,WH-3,Regular,Delivered,True,Wrong Item,Cash,Product 18
+513,Medium,WH-1,2-Day,Delivered,False,Late,Wire Transfer,Product 58
+515,Critical,WH-1,Regular,Cancelled,True,Not Specified,Wire Transfer,Product 15
+503,Medium,WH-2,Regular,Backorder,True,Not Specified,Cash,Product 89
+540,Medium,WH-3,Express,Pending,False,Damaged,Credit Card,Product 67
+502,Medium,WH-2,Express,Pending,True,Not Specified,PayPal,Product 49
+502,High,WH-3,Regular,Pending,True,Not Specified,Credit Card,Product 26
+536,Low,WH-3,Express,Delivered,True,Not Specified,PayPal,Product 23
+557,High,WH-3,Express,Delivered,False,Not Specified,Cash,Product 81
+514,Medium,WH-1,2-Day,Pending,False,Not Specified,Cash,Product 9
+545,Critical,WH-2,2-Day,Cancelled,True,Wrong Item,Wire Transfer,Product 3
+518,Medium,WH-2,Overnight,Delivered,True,Wrong Item,Credit Card,Product 96
+521,Critical,WH-2,Overnight,Cancelled,False,Late,Credit Card,Product 19
+535,High,WH-1,Regular,Delivered,False,Not Specified,Credit Card,Product 66
+555,Low,WH-3,2-Day,Backorder,True,Not Specified,PayPal,Product 34
+512,Critical,WH-3,Regular,Delivered,True,Not Specified,Credit Card,Product 58
+557,High,WH-2,Overnight,Delivered,True,Late,PayPal,Product 2
+549,Low,WH-1,Overnight,Pending,False,Wrong Item,Wire Transfer,Product 87
+510,Medium,WH-3,Overnight,Backorder,True,Wrong Item,Wire Transfer,Product 78
+506,Medium,WH-3,Regular,Cancelled,True,Not Specified,Wire Transfer,Product 78
+549,Medium,WH-2,Express,Backorder,False,unkown,Cash,Product 57
+537,Medium,WH-2,Overnight,Delivered,False,Wrong Item,PayPal,Product 86
+559,Medium,WH-1,2-Day,Cancelled,True,Wrong Item,PayPal,Product 5
+550,Critical,WH-2,Regular,Cancelled,False,Wrong Item,Credit Card,Product 57
+529,Low,WH-2,Express,Backorder,False,Late,Wire Transfer,Product 42
+505,High,WH-1,Overnight,Delivered,False,Late,Cash,Product 5
+539,Low,WH-2,Regular,Pending,False,Wrong Item,PayPal,Product 44
+515,High,WH-2,Overnight,Cancelled,False,Not Specified,Credit Card,Product 45
+520,Medium,WH-3,Express,Delivered,False,Wrong Item,Cash,Product 74
+558,Medium,WH-1,Regular,Delivered,True,Late,Credit Card,Product 81
+518,Critical,WH-2,Regular,Delivered,False,Late,Credit Card,Product 35
+540,Low,WH-3,Regular,Cancelled,False,Late,Cash,Product 89
+554,High,WH-2,2-Day,Cancelled,False,Late,PayPal,Product 7
+532,Medium,WH-3,Express,Pending,False,Not Specified,PayPal,Product 86
+515,High,WH-2,Regular,Cancelled,False,Wrong Item,Cash,Product 39
+528,High,WH-3,Express,Cancelled,False,Wrong Item,Wire Transfer,Product 82
+547,Medium,WH-1,Overnight,Cancelled,False,Wrong Item,PayPal,Product 20
+507,Medium,WH-1,Regular,Cancelled,True,unkown,PayPal,Product 75
+544,Medium,WH-1,Regular,Delivered,False,Damaged,Cash,Product 73
+554,Critical,WH-2,Express,Delivered,True,Damaged,Wire Transfer,Product 46
+541,Low,WH-1,Overnight,Backorder,False,Not Specified,Wire Transfer,Product 10
+510,High,WH-2,Express,Cancelled,True,unkown,PayPal,Product 52
+536,High,WH-3,Overnight,Pending,True,Wrong Item,Cash,Product 38
+559,Low,WH-1,Regular,Pending,True,Not Specified,PayPal,Product 51
+508,Critical,WH-2,2-Day,Backorder,False,unkown,Credit Card,Product 2
+520,Medium,WH-2,Overnight,Delivered,False,Not Specified,Cash,Product 52
+538,High,WH-1,Express,Delivered,False,Damaged,Wire Transfer,Product 17
+531,Critical,WH-3,Express,Backorder,True,Not Specified,Credit Card,Product 28
+517,Critical,WH-1,Overnight,Delivered,True,Late,Cash,Product 18
+539,Low,WH-1,Regular,Backorder,True,Wrong Item,Cash,Product 53
+504,Critical,WH-2,2-Day,Delivered,True,Not Specified,Cash,Product 75
+554,High,WH-2,Express,Delivered,False,Not Specified,Credit Card,Product 87
+532,Low,WH-2,Express,Backorder,True,Wrong Item,Credit Card,Product 90
+515,Critical,WH-3,2-Day,Delivered,True,Late,Wire Transfer,Product 98
+512,High,WH-1,Regular,Pending,True,Late,PayPal,Product 65
+504,Critical,WH-2,Overnight,Pending,False,Damaged,Credit Card,Product 63
+548,High,WH-2,2-Day,Delivered,True,Late,Wire Transfer,Product 10
+501,Medium,WH-1,Regular,Pending,False,Late,PayPal,Product 95
+542,Critical,WH-3,Regular,Cancelled,False,Late,Cash,Product 40
+510,High,WH-3,Regular,Pending,True,Wrong Item,PayPal,Product 92
+530,Low,WH-1,Regular,Delivered,True,unkown,PayPal,Product 30
+527,High,WH-2,Overnight,Pending,True,Not Specified,Credit Card,Product 32
+558,Critical,WH-1,2-Day,Backorder,True,Damaged,PayPal,Product 2
+542,Critical,WH-3,Regular,Backorder,False,Late,PayPal,Product 44
+541,Critical,WH-3,Overnight,Cancelled,True,unkown,Wire Transfer,Product 74
+530,High,WH-3,Regular,Delivered,True,Damaged,Wire Transfer,Product 9
+519,High,WH-3,Express,Cancelled,True,Late,Credit Card,Product 37
+516,Medium,WH-3,Regular,Backorder,False,Damaged,PayPal,Product 84
+516,Medium,WH-3,2-Day,Cancelled,True,Damaged,Wire Transfer,Product 28
+542,Critical,WH-2,Regular,Pending,True,Not Specified,Cash,Product 52
+513,Medium,WH-2,Express,Cancelled,True,Not Specified,Wire Transfer,Product 23
+551,High,WH-3,Express,Cancelled,False,Late,Credit Card,Product 62
+528,Critical,WH-1,Overnight,Cancelled,False,Wrong Item,Cash,Product 16
+509,Critical,WH-3,Express,Delivered,True,Late,PayPal,Product 30
+551,Medium,WH-1,2-Day,Delivered,True,Late,Cash,Product 5
+518,Low,WH-2,2-Day,Pending,False,Late,Wire Transfer,Product 51
+553,Medium,WH-3,Overnight,Delivered,True,Not Specified,Wire Transfer,Product 13
+529,Critical,WH-1,Regular,Backorder,False,Not Specified,PayPal,Product 97
+526,Low,WH-3,Regular,Pending,True,Wrong Item,Credit Card,Product 50
+560,Medium,WH-2,Overnight,Cancelled,False,unkown,Wire Transfer,Product 14
+503,High,WH-3,Express,Backorder,False,unkown,Credit Card,Product 11
+512,High,WH-1,Express,Pending,False,Wrong Item,PayPal,Product 52
+504,Low,WH-1,Regular,Cancelled,False,Late,Cash,Product 3
+507,Critical,WH-1,2-Day,Pending,False,Damaged,Wire Transfer,Product 16
+528,Low,WH-3,Express,Cancelled,True,Damaged,PayPal,Product 56
+507,Low,WH-3,Express,Cancelled,False,Wrong Item,Credit Card,Product 91
+516,Low,WH-1,Regular,Delivered,True,unkown,Credit Card,Product 47
+521,Medium,WH-3,Overnight,Backorder,False,Late,Wire Transfer,Product 16
+505,High,WH-2,Regular,Delivered,False,Damaged,PayPal,Product 33
+537,Medium,WH-3,Regular,Pending,True,Wrong Item,Credit Card,Product 81
+528,Medium,WH-3,Express,Delivered,False,Not Specified,Wire Transfer,Product 66
+515,Low,WH-1,Express,Pending,True,Wrong Item,Credit Card,Product 5
+509,Medium,WH-3,Express,Backorder,True,unkown,Wire Transfer,Product 55
+513,High,WH-1,2-Day,Backorder,False,Wrong Item,Wire Transfer,Product 24
+549,Critical,WH-1,Express,Cancelled,False,Damaged,Credit Card,Product 5
+520,Medium,WH-3,Express,Cancelled,False,unkown,Credit Card,Product 90
+512,High,WH-1,Overnight,Pending,True,Damaged,Cash,Product 85
+546,Critical,WH-3,Overnight,Pending,False,Late,PayPal,Product 46
+513,Medium,WH-3,2-Day,Delivered,False,Not Specified,Wire Transfer,Product 91
+536,Medium,WH-2,Regular,Pending,False,Damaged,Wire Transfer,Product 93
+529,Medium,WH-3,Express,Cancelled,True,Not Specified,Wire Transfer,Product 61
+511,Low,WH-1,Regular,Delivered,False,Damaged,PayPal,Product 2
+527,Medium,WH-1,Regular,Delivered,True,Damaged,Cash,Product 49
+541,Medium,WH-2,2-Day,Backorder,False,Not Specified,Cash,Product 50
+522,Medium,WH-1,Overnight,Delivered,True,Late,PayPal,Product 63
+507,Critical,WH-1,Express,Cancelled,True,Late,PayPal,Product 75
+534,Critical,WH-1,Express,Cancelled,True,Damaged,Wire Transfer,Product 1
+520,Medium,WH-3,Overnight,Delivered,True,Not Specified,Cash,Product 54
+514,Medium,WH-3,Express,Delivered,False,Not Specified,Credit Card,Product 99
+522,Medium,WH-2,Express,Delivered,False,Damaged,Cash,Product 54
+535,Critical,WH-2,Overnight,Backorder,True,Not Specified,Cash,Product 54
+506,Critical,WH-3,Overnight,Cancelled,False,Not Specified,Credit Card,Product 69
+550,High,WH-2,Overnight,Pending,False,Late,Cash,Product 48
+514,Medium,WH-3,Express,Pending,False,Wrong Item,Wire Transfer,Product 70
+545,High,WH-1,Express,Backorder,True,Wrong Item,PayPal,Product 33
+559,High,WH-3,Express,Delivered,False,Late,Cash,Product 12
+530,Low,WH-1,Overnight,Cancelled,False,Not Specified,Credit Card,Product 54
+522,Low,WH-2,2-Day,Backorder,True,Not Specified,Wire Transfer,Product 86
+517,High,WH-1,Express,Delivered,False,Wrong Item,Cash,Product 3
+511,Low,WH-2,Overnight,Pending,True,Late,Cash,Product 49
+554,Medium,WH-1,Regular,Pending,False,Wrong Item,Cash,Product 95
+511,Low,WH-3,Regular,Cancelled,True,Damaged,PayPal,Product 96
+558,Critical,WH-2,2-Day,Delivered,True,unkown,Cash,Product 7
+541,Critical,WH-1,Express,Pending,False,Wrong Item,Credit Card,Product 19
+555,High,WH-2,2-Day,Cancelled,False,Damaged,Cash,Product 82
+560,Medium,WH-2,Overnight,Pending,True,unkown,PayPal,Product 25
+518,Medium,WH-2,Express,Cancelled,False,Damaged,PayPal,Product 75
+535,Critical,WH-2,Regular,Pending,False,unkown,Cash,Product 5
+537,Low,WH-2,Regular,Cancelled,True,Not Specified,Cash,Product 91
+548,Medium,WH-1,Express,Pending,False,Damaged,Credit Card,Product 33
+538,Medium,WH-2,2-Day,Delivered,False,Wrong Item,Credit Card,Product 96
+560,High,WH-2,2-Day,Cancelled,False,Damaged,Credit Card,Product 5
+525,Medium,WH-2,Overnight,Backorder,False,Wrong Item,PayPal,Product 83
+535,Low,WH-2,2-Day,Backorder,False,Damaged,Wire Transfer,Product 9
+510,Medium,WH-2,Overnight,Backorder,True,Not Specified,Wire Transfer,Product 83
+508,Low,WH-1,2-Day,Pending,False,Damaged,PayPal,Product 15
+508,High,WH-2,Express,Cancelled,False,Not Specified,Cash,Product 81
+522,Critical,WH-1,Overnight,Delivered,False,Damaged,Cash,Product 7
+528,Low,WH-2,Overnight,Delivered,True,Late,Wire Transfer,Product 17
+509,High,WH-3,Regular,Delivered,True,Late,Cash,Product 88
+533,Medium,WH-3,Express,Delivered,True,Damaged,Credit Card,Product 16
+542,Medium,WH-3,2-Day,Cancelled,True,Not Specified,Cash,Product 38
+511,Medium,WH-3,2-Day,Cancelled,True,Not Specified,Cash,Product 48
+504,Medium,WH-2,Regular,Cancelled,False,Damaged,Cash,Product 38
+545,Low,WH-1,2-Day,Backorder,True,Not Specified,Cash,Product 16
